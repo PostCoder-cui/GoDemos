@@ -1,2 +1,0 @@
-# GoDemos
-practice for golang
